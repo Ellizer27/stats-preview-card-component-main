@@ -33,7 +33,6 @@ body {
     width: 100%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    z-index: -2;
 }
 
 .card-img-heading {
@@ -82,6 +81,10 @@ body {
 
 .card-footer p {
     color: hsla(0, 0%, 100%, 0.75);
+}
+
+.front-end-mentor {
+    text-align: center;
 }
 
 @media (min-width: 760px) {
